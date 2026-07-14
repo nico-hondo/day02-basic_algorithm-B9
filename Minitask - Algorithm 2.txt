@@ -11,5 +11,5 @@ Input Rumus: Luas     = phi x r x r
 3. Jikalau sudah diketahui, maka bagi 2 untuk mendapatkan nilai jari-jari(r)
 4. Gunakan phi = 22/7 jikalau jari-jari memiliki kelipatan 7;
 5. Jika tidak, maka gunakan phi = 3,14
-6. lalu hitung luas dengan menggunakan rumus 'phi x r x r' dan hitung keliling dengan menggunakan rumus '2 x phi x r'
+6. lalu hitung luas dengan menggunakan rumus Luas dan hitung keliling dengan menggunakan rumus Keliling
 7. Selesai
