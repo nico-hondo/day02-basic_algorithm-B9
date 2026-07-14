@@ -1,0 +1,23 @@
+MiniTask Algoritma 7
+-------------------------------
+
+Cara 1
+--------
+FUNCTION PascaBayarListrik(penggunaanListrik)
+     Declare totalHarga, harga: num
+
+BEGIN
+     IF penggunaanListrik > 200 :
+	harga <- 5000
+     ELSE IF penggunaanListrik > 100 && penggunaanListrik <= 200 :
+	harga <- 3000
+     ELSE :
+	harga <- 2000
+     END IF
+
+     
+     totalHarga = penggunaanListrik * harga
+     RETURN totalHarga
+
+END
+
