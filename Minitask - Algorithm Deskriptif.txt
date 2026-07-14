@@ -1,0 +1,11 @@
+Minitask Algoritma 1 - Memindahkan air didalam gelas
+---------------------------
+
+input: Terdapat 2 gelas yaitu gelas A berisi Teh dan gelas B berisi Kopi
+
+1. Mulai
+2. Siapkan 1 wadah/gelas baru sebagai penampungan sementara, bisa kita sebut gelas C
+3. Pindahkan teh yang berada digelas A kedalam gelas C, sehingga gelas A sekarang kosong
+4. Kopi yang berada digelas B, lalu pindahkan ke gelas A
+5. Lalu gelas B yang sudah kosong, kita masukkan teh yang berada di gelas C
+6. Selesai.
