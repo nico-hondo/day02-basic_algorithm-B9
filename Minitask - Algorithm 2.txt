@@ -1,0 +1,15 @@
+Minitask Alogritma 2 - Menghitung luas & keliling lingkaran
+---------------------------------------
+
+Input Rumus: Luas     = phi x r x r
+	     Keliling = 2 x phi x r
+
+- Luas
+----------
+1. Mulai
+2. Murid harus mengetahui terlebih dahulu berapa diameter untuk lingkaran.
+3. Jikalau sudah diketahui, maka bagi 2 untuk mendapatkan nilai jari-jari(r)
+4. Gunakan phi = 22/7 jikalau jari-jari memiliki kelipatan 7;
+5. Jika tidak, maka gunakan phi = 3,14
+6. lalu hitung luas dengan menggunakan rumus 'phi x r x r' dan hitung keliling dengan menggunakan rumus '2 x phi x r'
+7. Selesai
