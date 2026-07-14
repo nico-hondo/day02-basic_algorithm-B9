@@ -1,0 +1,9 @@
+Minitask Algoritma 3
+-------------------------------
+
+Input: variable x
+
+1. Mulai
+2. Jikalau nilai x adalah kelipatan 2 atau habis dibagi oleh 2, maka x adalah bilangan Genap
+3. Sebaliknya, jikalau nilai x tidak memenuhi syarat pada langkah sebelumnya, maka x adalah bilangan Ganjil
+4. Selesai
